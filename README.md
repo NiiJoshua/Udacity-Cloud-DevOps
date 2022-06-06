@@ -9,3 +9,6 @@ In Challenge 1, I used CloudFormation to provision an EC2, Pulbic and private su
 
 ## Ex 3
 Ex 3 is the solution to exercise 3. In exercise 3, we developed a network architecture using various tools. I used lucid app to design my diagram.
+
+## Challenge 2
+In challenge 2, we built on the architecture I designed in Ex 3 and created additional resources. 
