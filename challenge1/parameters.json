@@ -1,0 +1,14 @@
+[
+    {
+        "ParameterKey": "udacitytestvpc",
+        "ParameterValue": "vpc-082236d587ecb5e0e"
+      },
+      {
+        "ParameterKey": "PublicSubnet",
+        "ParameterValue": "subnet-002368d088efdefa5"
+      },
+      {
+        "ParameterKey": "AMItoUse",
+        "ParameterValue": "ami-06eecef118bbf9259" 
+      }
+]
