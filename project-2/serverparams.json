@@ -1,0 +1,18 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdagramWebApp"
+      },
+      {
+        "ParameterKey": "ServerIAM",
+        "ParameterValue": "ami-06eecef118bbf9259"
+      },
+      {
+        "ParameterKey": "S3Bucket",
+        "ParameterValue": "cloud-devops-project2-s3bucket"
+      },
+      {
+        "ParameterKey": "IntanceType",
+        "ParameterValue": "t2.medium" 
+      }
+]
