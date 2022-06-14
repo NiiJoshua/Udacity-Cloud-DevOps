@@ -12,3 +12,6 @@ Ex 3 is the solution to exercise 3. In exercise 3, we developed a network archit
 
 ## Challenge 2
 In challenge 2, we built on the architecture I designed in Ex 3 and created additional resources. 
+
+## Project 2
+Project 2 focuses on building a network architecture and creating a CloudFormation script to deploy a simple website
